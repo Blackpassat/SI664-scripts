@@ -1,0 +1,10 @@
+################
+#   Database   #
+################
+
+mysql:
+  host: localhost
+  user: raymond
+  passwd: 1.8Turbo
+  db: unesco_heritage_sites
+  local_infile: True
